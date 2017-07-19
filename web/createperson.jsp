@@ -9,10 +9,10 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>Guestbook - [Web Components ( aufgabe02_menu )]</title>
+        <title>Guestbook - [Web Components ( aufgabe01b_formular )]</title>
     </head>
     <body>
-        <h1>Web Components ( aufgabe02_menu ) - Guestbook</h1>
+        <h1>Web Components ( aufgabe01b_formular ) - Guestbook</h1>
 
         <script type="text/javascript">
             function fillForm1() {
