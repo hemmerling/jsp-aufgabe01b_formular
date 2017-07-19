@@ -9,11 +9,11 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>Homepage - [Web Components ( aufgabe01b_formular )]</title>
+        <title>Startseite [Web Components ( aufgabe01b_formular )]</title>
     </head>
     <body>
-        <h1>Web Components ( aufgabe01b_formular ) - Homepage</h1>
-        <a href="index.jsp">Homepage</a>
-        <a href="createperson.jsp">Guestbook</a>
+        <h1>Web Components ( aufgabe01b_formular ) - Startseite</h1>
+        <a href="index.jsp">Startseite</a>
+        <a href="createperson.jsp">Person anlegen</a>
     </body>
 </html>
