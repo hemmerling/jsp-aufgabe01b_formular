@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.hemmerling.aufgabe02_menu;
+package com.hemmerling.aufgabe01b_formular;
 
 import java.io.IOException;
 import java.io.PrintWriter;
